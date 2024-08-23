@@ -1,3 +1,11 @@
+CS-210 8-1 Journal: Portfolio Submission
+
+Dennis Nierzwicki
+Southern New Hampshire University
+CS-210-11455-M01 Programming Languages 2024 C-4
+Prof. Brittany Sanford
+August 25, 2024
+
 Summarize the project and what problem it was solving.
 
 This project’s design allows students to see how compound interest works in regards to savings accounts. The user can see what happens when they make a one-time deposit and compare it to a one-time deposit with additional monthly deposits.
