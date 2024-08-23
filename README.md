@@ -1,31 +1,38 @@
-CS-210 8-1 Journal: Portfolio Submission
+# CS-210 8-1 Journal: Portfolio Submission
 
-Dennis Nierzwicki
-Southern New Hampshire University
-CS-210-11455-M01 Programming Languages 2024 C-4
-Prof. Brittany Sanford
-August 25, 2024
+**Author:** Dennis Nierzwicki  
+**Institution:** Southern New Hampshire University  
+**Course:** CS-210-11455-M01 Programming Languages 2024 C-4  
+**Instructor:** Prof. Brittany Sanford  
+**Date:** August 25, 2024
 
-Summarize the project and what problem it was solving.
+## Project Summary
 
-This project’s design allows students to see how compound interest works in regards to savings accounts. The user can see what happens when they make a one-time deposit and compare it to a one-time deposit with additional monthly deposits.
+This project is designed to illustrate how compound interest works in relation to savings accounts. The application allows users to observe the effects of making a one-time deposit versus a one-time deposit with additional monthly deposits.
 
-What did you do particularly well?
+## Accomplishments
 
-This was my second attempt at defining a class structure in C++. While I think my code has a long way to go, devising a plan prior to coding seems to be the biggest accomplishment for this project. After sketching the basic flow, I was then able to add code with minimal issues. 
+This was my second attempt at defining a class structure in C++. Although I believe my code has room for improvement, creating a plan before diving into coding was a significant achievement for this project. With a clear plan, I was able to add code with minimal issues.
 
-Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+## Areas for Improvement
 
-I feel like I still need some work on validating user input and the try/catch methods. My code can also be reduced to minimize repeating ideas. There has to be a point where you stop and feel happy with the structure and organization. 
+- **User Input Validation:** I need to improve how I validate user input and utilize `try/catch` methods.
+- **Code Efficiency:** The code could be optimized by reducing redundancy and consolidating repeated ideas.
+- **Code Structure:** Finding the balance between a well-structured code and continuous improvement is crucial.
 
-Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+## Challenges and Solutions
 
-My code started without returning anything as void print statements. Nothing needed to be passed in as the variables from the class were already set. After using the Sense tool, I reconfigured my code to allow variables to pass in. The refactoring was the most difficult part. I overcame this by starting with a blank slate and adding small pieces of code one by one until I had a setup I felt good with. 
+The initial challenge was that my code started with `void` print statements, requiring reconfiguration to pass variables correctly. Using the Sense tool, I reworked my code to allow variable passing. This refactoring was challenging, but I overcame it by starting fresh and incrementally adding code until I achieved a functional setup.
 
-What skills from this project will be particularly transferable to other projects or course work?
+## Transferable Skills
 
-The planning phase will immensely help with other additional and future projects. Up until this point, most assignments could be coded without any planning. This project made me take a step back and ‘bar napkin’ the ideas until I understood what needed to be acquired from the user and what needed to be passed point-by-point. 
+The planning phase of this project has been invaluable. It emphasized the importance of planning before coding, a skill that will benefit future projects and coursework. This methodical approach helps clarify user requirements and code flow.
 
-How did you make this program maintainable, readable, and adaptable?
+## Code Maintainability, Readability, and Adaptability
+
+The use of class and object-oriented programming has made the program more maintainable, readable, and adaptable. By compartmentalizing functionality within objects and including comments, the code is easier for others to understand and modify.
+
+
+
 
 The use of a class and object-oriented programming allow the program to be maintainable, readable and adaptable. By keeping everything compartmentalized in the object would allow additional functionality in the flow of this program. The comments help explain what is doing what making it easy for another programmer to see why I did what I did throughout the program. 
